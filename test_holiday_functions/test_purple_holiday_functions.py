@@ -53,8 +53,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Laurie
-
-
+assert naughty_nice(6,0)
+assert not home_for_the_holidays("John")
 
 # Luisa
 
